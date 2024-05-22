@@ -1,1 +1,1 @@
-push lagi
+push lagi 1
